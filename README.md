@@ -2,7 +2,7 @@ cookbookTest Cookbook
 =====================
 TODO: Enter the cookbook description here.
 
-adding explanation.
+This is test for berkshelf.
 
 e.g.
 This cookbook makes your favorite breakfast sandwich.
