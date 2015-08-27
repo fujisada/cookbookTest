@@ -4,6 +4,8 @@ TODO: Enter the cookbook description here.
 
 This is test for berkshelf.
 
+ver 0.1.5
+
 e.g.
 This cookbook makes your favorite breakfast sandwich.
 
