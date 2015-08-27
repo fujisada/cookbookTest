@@ -3,8 +3,6 @@ cookbookTest Cookbook
 TODO: Enter the cookbook description here.
 
 This is test for berkshelf.
-test for berks vendor.
-
 
 e.g.
 This cookbook makes your favorite breakfast sandwich.
